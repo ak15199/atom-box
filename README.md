@@ -27,3 +27,8 @@ This design is based on the layout provided by [Box Genie](https://www.boxgenie.
 ## 3D Printed Insert
 
 The box is actually oversized deliberately. I found that I had a few essentials that would just not fit in the original styrofoam case. This project includes an adjustible 3D printed design that will fill the void, allowing you to add a few of those extras.
+
+## Other Views
+
+![Back](https://github.com/ak15199/atom-box/blob/main/img/back.png?raw=true)
+![Bottom](https://github.com/ak15199/atom-box/blob/main/img/bottom.png?raw=true)
