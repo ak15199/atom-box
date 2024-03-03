@@ -28,6 +28,8 @@ This design is based on the layout provided by [Box Genie](https://www.boxgenie.
 
 The box is actually oversized deliberately. I found that I had a few essentials that would just not fit in the original styrofoam case. This project includes an adjustible 3D printed design that will fill the void, allowing you to add a few of those extras.
 
+You will need to print two of the "half" STLs, as well as likely a couple of the movable inserts. The halves should clip together, but you may decide to glue them for additional security.
+
 ## Other Views
 
 ![Back](https://github.com/ak15199/atom-box/blob/main/img/back.png?raw=true)
